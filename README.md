@@ -29,3 +29,5 @@
 <br />
 
 > Be active and effective in any case!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=expadandeveloper&show_icons=true)
