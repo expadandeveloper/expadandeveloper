@@ -30,4 +30,6 @@
 
 > Be active and effective in any case!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=expadandeveloper&show_icons=true)
+<picture>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=expadandeveloper&layout=compact&theme=transparent&text_color="1e1e1e")</picture>
+<br />
+<picture>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=expadandeveloper&show_icons=true&theme=transparent&text_color="1e1e1e")</picture>
